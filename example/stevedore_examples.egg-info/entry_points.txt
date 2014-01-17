@@ -1,0 +1,5 @@
+[stevedore.example.formatter]
+simple = stevedore.example.simple:Simple
+field = stevedore.example.fields:FieldList
+plain = stevedore.example.simple:Simple
+
